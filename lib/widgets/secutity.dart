@@ -57,7 +57,7 @@ class Security extends StatelessWidget {
                 style: TextStyle(color: Colors.black, fontSize: 25),
                 textAlign: TextAlign.start,
               ),
-              subtitle: Text('Permission manager'),
+              subtitle: Text('Permission Manager'),
             ),
           ),
           const SizedBox(
