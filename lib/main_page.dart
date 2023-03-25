@@ -36,10 +36,10 @@ class MainPage extends StatelessWidget {
               children: const [
                 Icon(
                   Icons.search,
-                  color: Colors.black,
+                  color: Color.fromARGB(255, 141, 2, 2),
                 ),
                 CircleAvatar(
-                  backgroundColor: Color.fromARGB(255, 4, 14, 158),
+                  backgroundColor: Colors.grey,
                 )
               ],
             )),

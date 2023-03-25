@@ -24,7 +24,7 @@ class Advance extends StatelessWidget {
             style: TextStyle(color: Colors.black, fontSize: 25),
             textAlign: TextAlign.start,
           ),
-          subtitle: Text('Motiuons and gestures, One-handed mode'),
+          subtitle: Text('Motions and gestures, One-handed mode'),
         ),
       ),
     );
